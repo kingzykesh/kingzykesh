@@ -1,8 +1,6 @@
 <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4AF73F&random=false&width=435&lines=Hi+Dear%F0%9F%91%8B;I+am+Ezirim+Kingdom" alt="Typing SVG" /></a></h1>
 <h3 align="center">An enthusiastic person wants to explore the different dimensions of the technology world.</h3>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kingzykesh&show_icons=true&theme=transparent)
-
 - 💻 I'm a Full Stack Web Developer
 
 - 🌱 I’m currently learning **Data Analysis🤖**
@@ -30,10 +28,11 @@
 
 <br>
 <h3><p align="center"><b>Github Stats</b></p></h3>
+
 <table>
      <tr> 
           <td>
-           [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kingzykesh)](https://github.com/kingzykesh/github-readme-stats)
+           ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kingzykesh&show_icons=true&theme=transparent)
           </td> 
           <td> 
                <a href="https://github.com/Hrishi4kesh"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Hrishi4kesh&stroke=0891b2&background=0d1117&ring=ec4899&fire=ec4899&currStreakNum=0891b2&currStreakLabel=ec4899&sideNums=0891b2&sideLabels=0891b2&dates=0891b2&hide_border=true" /></a>
