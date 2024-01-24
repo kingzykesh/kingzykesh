@@ -31,7 +31,7 @@
 <table>
      <tr> 
           <td>
-               <a href="https://github.com/kingzykesh"><img src="https://github-readme-stats.vercel.app/api?username=Hrishi4kesh&show_icons=true&theme=transparent&hide_border=true" alt="Hrishi4kesh's GitHub stats" /></a> 
+               <a href="https://github.com/kingzykesh"><img src="[![KINGDOM GitHub stats](https://github-readme-stats.vercel.app/api?username=kingzykesh)](https://github.com/kingzykesh/github-readme-stats)" /></a> 
           </td> 
           <td> 
                <a href="https://github.com/Hrishi4kesh"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Hrishi4kesh&stroke=0891b2&background=0d1117&ring=ec4899&fire=ec4899&currStreakNum=0891b2&currStreakLabel=ec4899&sideNums=0891b2&sideLabels=0891b2&dates=0891b2&hide_border=true" /></a>
