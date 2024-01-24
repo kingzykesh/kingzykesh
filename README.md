@@ -12,7 +12,9 @@
 - ⚡ Fun fact **I am a sport enthusiast**
 
    <center>
+      <p align="center">
               <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fkingzykesh"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fkingzykesh&label=Visitors&countColor=%23263759" /></a>
+         </p>
                </center>
 
 <h2><p align="center">Skills</p></h2>
