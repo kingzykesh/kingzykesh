@@ -36,23 +36,9 @@
 </a>
 <a href="https://github.com/kingzykesh/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kingzykesh&show_icons=true&theme=transparent" />
-</a>
-
-<table>
-     <tr> 
-          <td>
-           ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kingzykesh&show_icons=true&theme=transparent)
-          </td> 
-          <td> 
-               <a href="https://github.com/Hrishi4kesh"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Hrishi4kesh&stroke=0891b2&background=0d1117&ring=ec4899&fire=ec4899&currStreakNum=0891b2&currStreakLabel=ec4899&sideNums=0891b2&sideLabels=0891b2&dates=0891b2&hide_border=true" /></a>
-          </td> 
-     </tr> 
-     <br>
-     <tr>
-          <td colspan="2" align="center">
-               <center>
+      <center>
               <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fkingzykesh"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fkingzykesh&label=Visitors&countColor=%23263759" /></a>
                </center>
-          </td>
-     </tr>
+</a>
+
 </table>
