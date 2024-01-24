@@ -1,8 +1,6 @@
 <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4AF73F&random=false&width=435&lines=Hi+Dear%F0%9F%91%8B;I+am+Ezirim+Kingdom" alt="Typing SVG" /></a></h1>
 <h3 align="center">An enthusiastic person wants to explore the different dimensions of the technology world.</h3>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kingzykesh&show_icons=true&theme=transparent)
-
 - 💻 I'm a Full Stack Web Developer
 
 - 🌱 I’m currently learning **Data Analysis🤖**
@@ -30,6 +28,8 @@
 
 <br>
 <h3><p align="center"><b>Github Stats</b></p></h3>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kingzykesh&show_icons=true&theme=transparent)
 
 <table>
      <tr> 
