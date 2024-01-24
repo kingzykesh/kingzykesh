@@ -11,6 +11,10 @@
 
 - ⚡ Fun fact **I am a sport enthusiast**
 
+   <center>
+              <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fkingzykesh"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fkingzykesh&label=Visitors&countColor=%23263759" /></a>
+               </center>
+
 <h2><p align="center">Skills</p></h2>
 
 <p align="center">
@@ -37,7 +41,3 @@
 <a href="https://github.com/kingzykesh/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kingzykesh&show_icons=true&theme=transparent" /> 
 </a>
-   <center>
-              <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fkingzykesh"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fkingzykesh&label=Visitors&countColor=%23263759" /></a>
-               </center>
-</table>
