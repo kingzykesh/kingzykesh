@@ -3,11 +3,11 @@
 
 - 💻 I'm a Full Stack Web Developer
 
-- 🌱 I’m currently learning **Data Analysis🤖**
+- 🌱 I currently learn and explore
 
-- 👯 I’m looking to collaborate on a Full stack Web Project
+- 👯 I’m looking to collaborate on any Project
 
-- 🔭 I’m currently working on A Research Blog
+- 🔭 I’m currently working on A Research Project
 
 - ⚡ Fun fact **I am a sport enthusiast**
 
