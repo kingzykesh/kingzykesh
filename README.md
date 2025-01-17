@@ -20,7 +20,7 @@
 <h2><p align="center">Skills</p></h2>
 
 <p align="center">
-     <img src="https://skillicons.dev/icons?i=php,laravel,c,javascript,react,html,css,vuejs,bootstrap,mysql,vercel,nodejs,androidstudio,vscode,netlify,linux,bash,git,github,figma,gcp,gmail,linkedin,ai&perline=6">
+     <img src="https://skillicons.dev/icons?i=php,laravel,c,javascript,python,react,html,css,tailwind,vuejs,bootstrap,mysql,vercel,nodejs,api,androidstudio,vscode,netlify,linux,bash,git,github,figma,gcp,gmail,linkedin,ai&perline=6">
 </p>
   
 <h2><p align="center">Socials</p></h2>
