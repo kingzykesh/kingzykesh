@@ -17,7 +17,7 @@
          </p>
                </center>
 
-<h2><p align="center">Skills</p></h2>
+<h2><p align="center">Stack</p></h2>
 
 <p align="center">
     <img src="https://skillicons.dev/icons?i=php,laravel,mysql,c,javascript,python,react,html,css,tailwind,vuejs,bootstrap,nodejs,androidstudio,vscode,vercel,netlify,linux,bash,git,github,figma,gcp,gmail,linkedin,ai&perline=6">
