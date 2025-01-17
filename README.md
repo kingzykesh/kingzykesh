@@ -3,7 +3,7 @@
 
 - 💻 I'm a Full Stack Web Developer
 
-- 🌱 I currently learn and explore
+- 🌱 I currently learning and exploring
 
 - 👯 I’m looking to collaborate on any Project
 
