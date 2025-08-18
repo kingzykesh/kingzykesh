@@ -33,10 +33,19 @@
     </p>
 
 <br>
-<h3><p align="center"><b>Github Stats</b></p></h3>
+## 📊 GitHub Stats  
 
-![kingzykesh's Stats](https://github-readme-stats.vercel.app/api?username=kingzykesh&theme=dark&show_icons=true&hide_border=false&count_private=true)
-![kingzykesh's Streak](https://github-readme-streak-stats.herokuapp.com/?user=kingzykesh&theme=dark&hide_border=false) <br>
-![kingzykesh's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kingzykesh&theme=dark&show_icons=true&hide_border=false&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kingzykesh&theme=dark&show_icons=true&hide_border=false&count_private=true" alt="kingzykesh's Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kingzykesh&theme=dark&hide_border=false" alt="kingzykesh's Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kingzykesh&theme=dark&show_icons=true&hide_border=false&layout=compact" alt="kingzykesh's Top Languages" />
+</p>
+
 
 
