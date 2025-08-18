@@ -35,7 +35,9 @@
 <br>
 <h3><p align="center"><b>Github Stats</b></p></h3>
 
-
+![kingzykesh's Stats](https://github-readme-stats.vercel.app/api?username=kingzykesh&theme=dark&show_icons=true&hide_border=false&count_private=true)
+![kingzykesh's Streak](https://github-readme-streak-stats.herokuapp.com/?user=kingzykesh&theme=dark&hide_border=false)
+![kingzykesh's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kingzykesh&theme=dark&show_icons=true&hide_border=false&layout=compact)
 
 <a href="https://github.com/kingzykesh/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=kingzykesh&show_icons=true&theme=transparent" />
