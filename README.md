@@ -20,7 +20,7 @@
 <h2><p align="center">Stack</p></h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,c,javascript,python,react,html,css,tailwind,vue,bootstrap,nodejs&perline=6" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,c,cpp,javascript,python,react,nextjs,html,css,tailwind,framer,vue,bootstrap,nodejs&perline=6" />
 </p>
 
 ### ⚙️ Tools & Platforms  
