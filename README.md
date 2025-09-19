@@ -55,9 +55,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=kingzykesh&theme=dark&hide_border=true" alt="kingzykesh's Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kingzykesh&theme=vue-dark&hide_border=false" alt="kingzykesh's Top Languages" />
 </p>
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kingzykesh&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
