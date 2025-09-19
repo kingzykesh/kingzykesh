@@ -57,8 +57,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=kingzykesh&theme=dark&show_icons=true&hide_border=false&count_private=true" alt="kingzykesh's Stats" />
 </p>
 
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kingzykesh&theme=dark&show_icons=true&hide_border=false&layout=compact" alt="kingzykesh's Top Languages" />
+  <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=kingzykesh&theme=dark&show_icons=true&hide_border=false&layout=compact](https://github-readme-streak-stats.herokuapp.com/?user=kingzykesh&theme=vue-dark&hide_border=false)" alt="kingzykesh's Top Languages" />
 </p>
 
 <p align="center">
