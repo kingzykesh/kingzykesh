@@ -18,6 +18,8 @@
   </a>
 </p>
 
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/67f2aa88c6cdf00e8780a80d?variant=dark" alt="roadmap.sh"/></a>
+
 ---
 
 <h2 align="center">🛠️ Tech Stack</h2>
