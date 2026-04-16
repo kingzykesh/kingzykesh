@@ -2,30 +2,16 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22C55E&center=true&vCenter=true&width=500&lines=Hi+👋+I'm+Ezirim+Kingdom;Full+Stack+Engineer+%7C+Tech+Leader;Building+Systems+That+Scale" />
 </h1>
 
-<h3 align="center">⚡ Building systems. Scaling ideas. Leading people.</h3>
+<h3 align="center">Building systems. Scaling ideas. Leading people.</h3>
 
 <p align="center">
   <a href="https://ezirimkingdom.com.ng"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-  <a href="https://thelangmaster.com"><img src="https://img.shields.io/badge/LangMaster-22C55E?style=for-the-badge&logo=googletranslate&logoColor=white"/></a>
   <a href="https://linkedin.com/in/ezirim-kingdom-4b8499292"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
 
-## 🚀 What I'm Building
-
-### 🧠 LangMaster — AI Language Learning Platform  
-> Connecting Nigeria one language at a time.
-
-- AI-powered tutor for Igbo, Yoruba & Hausa  
-- Voice interaction & pronunciation feedback  
-- Gamified learning (XP, streaks, rewards)  
-- Cultural intelligence (maps, heritage, daily facts)  
-- B2B solutions for schools & churches  
-
-🔗 https://thelangmaster.com  
-
----
+## What I'm Building
 
 ### 🏫 Cloud-Based SIWES Logbook System
 - GPS-verified student activity tracking  
@@ -45,11 +31,11 @@
 
 ## 🧠 Core Expertise
 
-- ⚙️ Full Stack Architecture (PHP, MySQL, Next.js)  
+- ⚙️ Full Stack Architecture (PHP, Laravel, MySQL, Next.js, Typescript, React, Python)  
 - 🔐 Secure APIs & Authentication (JWT, RBAC)  
 - 📊 Data Systems & Real-time Dashboards  
 - 🌍 Scalable Platforms for Education & Communities  
-- 🎨 High-performance UI/UX (Tailwind, Framer Motion)  
+- 🎨 High-performance UI/UX (Tailwind, Framer Motion, GSAP)  
 - 🚀 Product Thinking & MVP Execution  
 
 ---
@@ -61,7 +47,7 @@
 - 🧩 **Systems over scripts**  
   I focus on building structured, scalable systems rather than isolated features.
 
-- ⚡ **Speed with direction**  
+- **Speed with direction**  
   Shipping fast matters, but shipping *right* matters more.
 
 - 📊 **Data drives decisions**  
@@ -73,7 +59,7 @@
 - 🔐 **Security is foundational**  
   From authentication to data flow, trust is non-negotiable.
 
-- 🚀 **Start simple. Scale intentionally.**  
+- **Start simple. Scale intentionally.**  
   I believe in MVP-first, then optimizing for growth and performance.
 
 ---
@@ -83,14 +69,12 @@
 - 🥇 Face of Rivers Tech Award Winner  
 - 🧑‍💻 Software Director — NACOS Anchor University  
 - 🎤 Organizer — TEDx Anchor University  
-- 🧠 Top 4 Finalist — NCS National IT Competition  
-- 🚀 Founder — LangMaster  
+- 🧠 Top 4 Finalist — NCS National IT Competition    
 
 ---
 
 ## 🎯 Current Focus
 
-- Scaling **LangMaster** into a global product  
 - Building AI-powered education systems  
 - Creating platforms impacting thousands of users  
 - Growing as a technical founder & product leader  
@@ -108,7 +92,7 @@
 ## ⚙️ Tools & Platforms
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vercel,netlify,docker,linux,git,github,githubactions,figma,postman,gcp,notion&perline=6" />
+  <img src="https://skillicons.dev/icons?i=vercel,netlify,docker,azure,linux,git,github,githubactions,figma,postman,gcp,notion&perline=6" />
 </p>
 
 ---
@@ -140,12 +124,12 @@ I’m open to:
 
 <p align="center">
 <a href="https://github.com/kingzykesh"><img src="https://skillicons.dev/icons?i=github" /></a>
-<a href="https://linkedin.com/in/ezirim-kingdom-4b8499292"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="https://www.linkedin.com/in/chukwuebuka-ezirim-4b8499292/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 <a href="https://instagram.com/ezirimkingdom"><img src="https://skillicons.dev/icons?i=instagram" /></a>
 </p>
 
 ---
 
 <p align="center">
-  💡 “Great systems don’t just work — they scale, adapt, and empower people.”
+  “Great systems don’t just work — they scale, adapt, and empower people.”
 </p>
