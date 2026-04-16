@@ -1,64 +1,151 @@
-<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4AF73F&random=false&width=435&lines=Hi+Dear%F0%9F%91%8B;I+am+Ezirim+Kingdom" alt="Typing SVG" /></a></h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22C55E&center=true&vCenter=true&width=500&lines=Hi+👋+I'm+Ezirim+Kingdom;Full+Stack+Engineer+%7C+Tech+Leader;Building+Systems+That+Scale" />
+</h1>
 
-<h3 align="center">Building seamless digital experiences, one stack at a time </h3>
-
----
-
-### 👨‍💻 About Me  
-
-- 💻 **Full Stack Developer & Digital Specialist** passionate about solving problems with technology.  
-- 🌱 Currently exploring **AI-powered solutions** and **next-gen web technologies**.  
-- 👯 Open to collaboration on impactful and innovative projects.  
-- 🔭 Working on **research & startup initiatives** around education, tech talent & crossposting systems.  
-- ⚡ **Fun fact:** Sports enthusiast and community builder.  
+<h3 align="center">⚡ Building systems. Scaling ideas. Leading people.</h3>
 
 <p align="center">
-  <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fkingzykesh">
-    <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fkingzykesh&label=Visitors&countColor=%23263759" />
-  </a>
-</p>
-
-<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/67f2aa88c6cdf00e8780a80d?variant=dark" alt="roadmap.sh"/></a>
-
----
-
-<h2 align="center">🛠️ Tech Stack</h2>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,wordpress,c,cpp,python,javascript,typescript,react,nextjs,vue,html,css,tailwind,framer,bootstrap,nodejs,express,sqlite,firebase,postgresql&perline=6" />
+  <a href="https://ezirimkingdom.com.ng"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://thelangmaster.com"><img src="https://img.shields.io/badge/LangMaster-22C55E?style=for-the-badge&logo=googletranslate&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/ezirim-kingdom-4b8499292"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
 
-<h2 align="center">⚙️ Tools & Platforms</h2>
+## 🚀 What I'm Building
+
+### 🧠 LangMaster — AI Language Learning Platform  
+> Connecting Nigeria one language at a time.
+
+- AI-powered tutor for Igbo, Yoruba & Hausa  
+- Voice interaction & pronunciation feedback  
+- Gamified learning (XP, streaks, rewards)  
+- Cultural intelligence (maps, heritage, daily facts)  
+- B2B solutions for schools & churches  
+
+🔗 https://thelangmaster.com  
+
+---
+
+### 🏫 Cloud-Based SIWES Logbook System
+- GPS-verified student activity tracking  
+- Anti-cheat logging system  
+- Supervisor review & analytics dashboard  
+- Multi-role architecture (Student, Supervisor, Admin)
+
+---
+
+### ⛪ Smart Attendance & Analytics System
+- Managing 2000+ students across multiple services  
+- Real-time multi-device scanning system  
+- Intelligent attendance scoring (1 / 0.5 logic)  
+- Exportable analytics dashboard  
+
+---
+
+## 🧠 Core Expertise
+
+- ⚙️ Full Stack Architecture (PHP, MySQL, Next.js)  
+- 🔐 Secure APIs & Authentication (JWT, RBAC)  
+- 📊 Data Systems & Real-time Dashboards  
+- 🌍 Scalable Platforms for Education & Communities  
+- 🎨 High-performance UI/UX (Tailwind, Framer Motion)  
+- 🚀 Product Thinking & MVP Execution  
+
+---
+
+## 🧠 Tech Philosophy
+
+> I don’t just write code — I build systems that solve real problems at scale.
+
+- 🧩 **Systems over scripts**  
+  I focus on building structured, scalable systems rather than isolated features.
+
+- ⚡ **Speed with direction**  
+  Shipping fast matters, but shipping *right* matters more.
+
+- 📊 **Data drives decisions**  
+  Every meaningful system should produce insights, not just outputs.
+
+- 🌍 **Build for real users**  
+  I design with context — especially for African users and emerging markets.
+
+- 🔐 **Security is foundational**  
+  From authentication to data flow, trust is non-negotiable.
+
+- 🚀 **Start simple. Scale intentionally.**  
+  I believe in MVP-first, then optimizing for growth and performance.
+
+---
+
+## 🏆 Achievements & Leadership
+
+- 🥇 Face of Rivers Tech Award Winner  
+- 🧑‍💻 Software Director — NACOS Anchor University  
+- 🎤 Organizer — TEDx Anchor University  
+- 🧠 Top 4 Finalist — NCS National IT Competition  
+- 🚀 Founder — LangMaster  
+
+---
+
+## 🎯 Current Focus
+
+- Scaling **LangMaster** into a global product  
+- Building AI-powered education systems  
+- Creating platforms impacting thousands of users  
+- Growing as a technical founder & product leader  
+
+---
+
+## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,androidstudio,vercel,netlify,docker,linux,bash,git,github,githubactions,figma,postman,gcp,firebase,notion,gmail,linkedin&perline=6" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,javascript,typescript,react,nextjs,nodejs,html,css,tailwind,framer,python,postgresql,firebase&perline=6" />
 </p>
 
 ---
 
-<h2 align="center">🌐 Connect With Me</h2>
+## ⚙️ Tools & Platforms
 
 <p align="center">
-<a href="https://github.com/kingzykesh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="40" height="40" /></a> <a href="https://www.instagram.com/ezirimkingdom/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="40" height="40" /></a> <a href="https://www.linkedin.com/in/ezirim-kingdom-4b8499292/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="40" height="40" /></a> <a href="https://www.facebook.com/ezirimkingdom/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="40" height="40" /></a>
+  <img src="https://skillicons.dev/icons?i=vercel,netlify,docker,linux,git,github,githubactions,figma,postman,gcp,notion&perline=6" />
 </p>
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kingzykesh&theme=dark&show_icons=true&hide_border=false&count_private=true" alt="kingzykesh's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kingzykesh&theme=dark&show_icons=true&hide_border=true&count_private=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kingzykesh&theme=dark&show_icons=true&hide_border=false&layout=compact" alt="kingzykesh's Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=kingzykesh&theme=dark&hide_border=true" />
 </p>
+
+---
+
+## 🤝 Let’s Collaborate
+
+I’m open to:
+
+- 🚀 Building scalable products & MVPs  
+- 🤖 AI-powered solutions (EdTech, HealthTech, FinTech)  
+- 🎤 Speaking & tech community engagements  
+- 🤝 Startup partnerships & product strategy  
+
+---
+
+## 🌐 Connect With Me
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kingzykesh&theme=vue-dark&hide_border=false" alt="kingzykesh's Top Languages" />
+<a href="https://github.com/kingzykesh"><img src="https://skillicons.dev/icons?i=github" /></a>
+<a href="https://linkedin.com/in/ezirim-kingdom-4b8499292"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="https://instagram.com/ezirimkingdom"><img src="https://skillicons.dev/icons?i=instagram" /></a>
 </p>
 
+---
 
-
+<p align="center">
+  💡 “Great systems don’t just work — they scale, adapt, and empower people.”
+</p>
