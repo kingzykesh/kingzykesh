@@ -26,7 +26,7 @@
       alt="LinkedIn"
     />
   </a>
-  <a href="mailto:admin@thelangmaster.com">
+  <a href="mailto:ezirimchukwuebuka24@gmail.com">
     <img
       src="https://img.shields.io/badge/Email-22C55E?style=for-the-badge&logo=gmail&logoColor=white"
       alt="Email"
@@ -287,7 +287,7 @@ If you are building something ambitious that can meaningfully improve people’s
       alt="Instagram"
     />
   </a>
-  <a href="mailto:admin@thelangmaster.com">
+  <a href="mailto:eziezirimchukwuebuka24@gmail.com">
     <img
       src="https://img.shields.io/badge/Email-22C55E?style=for-the-badge&logo=gmail&logoColor=white"
       alt="Email"
